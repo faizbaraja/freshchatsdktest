@@ -1,0 +1,6 @@
+framework module Pods_TestFreshChatSDK_TestFreshChatSDKUITests {
+  umbrella header "Pods-TestFreshChatSDK-TestFreshChatSDKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
